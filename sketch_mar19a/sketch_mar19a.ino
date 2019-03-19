@@ -1,9 +1,11 @@
+
+
 void setup() {
-  // put your setup code here, to run once:
+int lcd 
 
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+lcd.print("sample")
 
 }
